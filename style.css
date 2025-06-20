@@ -1,19 +1,4 @@
 
-@media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-    padding: 20px;
-  }
-
-  .about-image img {
-    max-width: 100%;
-  }
-
-  .about-info {
-    text-align: center;
-  }
-}
-
 * {
 margin: 0;
 padding: 0;
